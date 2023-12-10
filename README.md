@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @UniqueGe
-- 👀 I’m interested in Website Development
-- 🌱 I’m currently learning PHP
+- 👋 Hi, I’m @Folex Tech
+- 👀 I’m interested in Data Science and Analysis 
+- 🌱 I have knowledge of Python, R and C++
 
 <!---
 UniqueGe/UniqueGe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
